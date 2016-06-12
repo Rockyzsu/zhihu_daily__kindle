@@ -1,5 +1,5 @@
 # -*- coding=utf-8 -*-
-__author__ = 'rocky'
+__author__ = 'rocky @ www.30daydo.com'
 import urllib2, re, os, codecs,sys,datetime
 from bs4 import BeautifulSoup
 # example https://zhhrb.sinaapp.com/index.php?date=20160610
